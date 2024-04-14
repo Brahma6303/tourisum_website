@@ -1,0 +1,13 @@
+.country-container{
+    color:blue;
+    text-align:center;
+    border-style:solid;
+    border-width: 2px;
+    border-color:green;
+}
+.country-state{
+    border-style:solid;
+    border-width:2px;
+    border-color:green;
+    border-radius:25px;
+}

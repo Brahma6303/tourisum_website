@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.cricketer-top-section{
+   background-color: #fb4e71;
+   color:#ffffff;
+}
+.cricketer-top-section-card{
+    font-family:"Roboto";
+    width:1000px;
+    padding:15px;
+}
+.cricketer-top-section-heading{
+    font-size:36px;
+    font-weight:bold;
+}
+.cricketer-top-section-description{
+    font-size:20px;
+}
+.cricketer-top-section-image{
+    height:250px;
+    width:200px;
+    padding:20px;
+}
+.cricketer-bottom-section{
+    background-color: #e6f6ff;
+    font-family:"Roboto";
+    padding:5px;
+
+}
+.cricketer-bottom-heading{
+    color:#323f4b;
+    font-size:22px;
+    font-weight:bold;
+    padding:20px;
+}
+
+.cricketer-bottom-card-image{
+    height:200px;
+    width:200px;
+}
+.cricketer-text-container{
+    background-color: #ffffff;
+    border-top-right-radius:15px;
+    border-bottom-right-radius:15px;
+}
+.cricketer-text-paragraph{
+    color:#888888;
+    padding:20px;
+}
+.cricketer-footer-head{
+    color:#323f4b;
+    font-size:22px;
+    font-family:"Roboto";
+    font-weight: bold;
+    padding:10px;
+}
+.cricketer-footer-image{
+    height:300px;
+    width:300px;
+}
+.cricketer-footer-text-description{
+    color:#323f4b;
+    font-size:20px;
+    margin:3px;
+}
+.cricketer-footer-card-container{
+    margin:70px;
+}
+.button{
+    text-align:center;
+}
+
+    
+

@@ -1,0 +1,25 @@
+.profile{
+    padding:30px;
+    background-color:#ffffff;
+    text-align:center;
+    height:100vh;
+    
+}
+.heading{
+    font-size:24px;
+}
+.Awards{
+    padding:30px;
+    background-color: aqua;
+    height:100vh;
+}
+.Bio{
+    padding:30px;
+    background-color: aliceblue;
+    height:100vh;
+}
+.image{
+    height:20px;
+    width:20px;
+    
+}
